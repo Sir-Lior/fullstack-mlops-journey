@@ -1,7 +1,8 @@
-#  AI Engineering & MLOps Blueprint
+# 🚀 AI Engineering & MLOps Blueprint
 
 This repository tracks my daily progression from Python foundations to production-grade AI infrastructure.
 
-##  Micro-Project 2: User Profile Mapping
-- **What I built:** A script that takes user inputs (Name and Age), stores them cleanly inside a Python Dictionary, and uses `if/elif/else` statements to sort users into different age categories.
-- **What I learned:** How to structure user data using key-value pairs so it is organized and easy to access later in the code.
+## 📝 Micro-Project 1: Boundary-Validated Age Calculator
+- **Core Focus:** Structural Data Types, Integer Type-Casting, and Conditional Tier Partitioning (`if/elif/else`).
+- **The Problem Solved:** Built an interactive script to calculate user age using programmatic time inputs, with active validation traps for edge cases (such as impossible negative age bounds).
+- **What I Learned:** How to control data flow using precise condition ranges and inject responsive terminal outputs based on dynamic variables.
